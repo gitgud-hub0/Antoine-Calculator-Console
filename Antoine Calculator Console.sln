@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAntoineCalc", "TestAntoineCalc\TestAntoineCalc.csproj", "{F8ADFB54-2864-46E7-B5BC-9F3071C3CE72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntoineCalcApp", "AntoineCalcApp\AntoineCalcApp.csproj", "{4D87547A-4158-435C-88A4-03678BFC2E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8ADFB54-2864-46E7-B5BC-9F3071C3CE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8ADFB54-2864-46E7-B5BC-9F3071C3CE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8ADFB54-2864-46E7-B5BC-9F3071C3CE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8ADFB54-2864-46E7-B5BC-9F3071C3CE72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D87547A-4158-435C-88A4-03678BFC2E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D87547A-4158-435C-88A4-03678BFC2E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D87547A-4158-435C-88A4-03678BFC2E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D87547A-4158-435C-88A4-03678BFC2E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F082FD1A-D1FF-41EA-B403-C444D9B32422}
+	EndGlobalSection
+EndGlobal
